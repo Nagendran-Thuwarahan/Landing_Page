@@ -6,7 +6,7 @@ import { Container, Row, Col, Card, Button } from "react-bootstrap";
 
 const Home = () => {
   return (
-    <div style={{ backgroundColor: "white" }}>
+    <div style={{ backgroundColor: "white", overflow: "hidden" }}>
       <section className="hero-section">
         <Container fluid className="p-0">
           <Row>
