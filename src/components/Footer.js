@@ -37,6 +37,7 @@ function Footer() {
                 <li><p>ReactJS</p></li>
                 <li><p>Gatsby</p></li>
                 <li><p>NextJS</p></li>
+                <li><p>NodeJS</p></li>
                 <li><p>GraphQL</p></li>
                 <li><p>Laravel</p></li>
               </ul>
